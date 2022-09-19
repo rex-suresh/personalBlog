@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap part 2"
+title: "BOOTSTRAP part 2"
 date: 2022-08-29T23:39:08+05:30
 # tags: ["bootstrap", "buttons", "cards", "bg-color", "free-images"]
 # series: ["blogs"]

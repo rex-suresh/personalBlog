@@ -1,5 +1,5 @@
 ---
-title: "My First Blog & Hugo setup"
+title: "HUGO Setup"
 date: 2022-08-22T12:04:06-05:00
 # tags: ["first", "new", "blog"]
 # series: ["blogs"]
@@ -7,7 +7,7 @@ showDate: true
 draft: false
 ---
 
-## Happy to write a first blog, Learned a new thing
+## First blog, Learned a new thing
 
 - This is my first Blog
 - Very less things to explain, but I came to know about Hugo's themes
@@ -26,3 +26,5 @@ draft: false
   7. look at the directory structure of example type template.
   8. Try to understand how hugo uses templates and layouts from themes.
   9. learn about place holders and logic behind template generation for hugo.
+
+- and done. Start creating your website.
