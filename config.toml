@@ -1,13 +1,13 @@
 baseURL = "https://github.com/rex-suresh/personalBlog/"
 languageCode = "en-us"
-theme = "ananke"
+# theme = "ananke"
 title = "Journey"
 
 
-# theme = "Elfaseo"
-# [params]
-# 	sidebartitle = "Journey"
-# 	sidebartagline = "Suresh's personal blog"
+theme = "Elfaseo"
+[params]
+	sidebartitle = "Journey"
+	sidebartagline = "Suresh's personal blog"
 
 # Sidebar Menu	
 	
@@ -17,9 +17,9 @@ title = "Journey"
 
 # Footer Menu		
 	
-# [[menu.footer]]
-#     name = "Home"
-#     url = "/"
+[[menu.footer]]
+    name = "Home"
+    url = "/"
 
 # [[menu.footer]]
 #     name = "Contact"
