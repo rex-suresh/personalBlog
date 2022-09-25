@@ -1,10 +1,10 @@
 ---
-title: "BOOTSTRAP part 2"
+title: "BOOTSTRAP buttons, colors, cards and "
 date: 2022-08-29T23:39:08+05:30
-# tags: ["bootstrap", "buttons", "cards", "bg-color", "free-images"]
-# series: ["blogs"]
+tags: ["bootstrap", "buttons", "cards", "bg-color", "free-images"]
+series: ["blogs"]
 showDate: true
-draft: false
+draft: true
 ---
 
 ## Bootstrap buttons and cards
@@ -18,21 +18,20 @@ Author: self
 > Free image website [Lorem Picsum](https://picsum.photos/)
 
 Key points gone through
- - Button (class="btn")
-  - Button Outline (class="btn-outline")
+ - Styling buttons {(class="btn")}
+   - Outline buttons {(class="btn-outline")}
  - Colors
-  - Predefined
-    * primary, secondary, dark, success, danger, light, dark, ...
-  - Usage (class-'color')
+   - Use and available colors
     * bg-'color'
- - Width (w-50, w-60) widths % in space
- - Card (class="card")
-  - card-header
-  - card-body
-  - card-footer
-  - card-text
-- Card-group
-- Text-muted
+    * primary, secondary, dark, success, danger, light, dark, ...
+ - Card containers {(class="card")}
+   - card-header
+   - card-body
+   - card-footer
+   - card-text
+ - Controlling width {(w-50, w-60) widths % in space}
+ - Card-group
+ - Text-muted
 
 ### Brief explanation
 

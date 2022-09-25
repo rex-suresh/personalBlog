@@ -1,8 +1,8 @@
 ---
-title: "BOOTSTRAP basics and more..."
+title: "BOOTSTRAP containers and grid system"
 date: 2022-08-28T21:55:34+05:30
-# tags: ["bootstrap", "sass", "scss", "css", "regex"]
-# series: ["blogs"]
+tags: ["bootstrap"]
+series: ["blogs"]
 showDate: true
 draft: false
 ---
@@ -14,7 +14,6 @@ Author: self
 
 ### Introduction
 > Boot strap is a css framework which is used by developers to make mobile first and responsive webpages quickly.
-> scss is a scripting language, which is compiled and used for generating css.
 
 Things I have learnt.
  - Bootstrap fundamentals
@@ -33,8 +32,6 @@ Things I have learnt.
       - (mx-, my-, m-) margin
       - (gx-, gy-, g-) gutter
  - css regex match
- - scss basics
-  - nesting and @use
 
 
 ### Brief explanation
@@ -214,11 +211,7 @@ Things I have learnt.
           margin : 10px;
         }
       ```
-      - The above syntax with "$" will match all classes which end with "-end", for example blah-blah-end.
-
-  ####   SCSS basics
-  * SCSS is a scripting language based on css, which is written and then used to generate css. This helps in maintaining large contents of styles and they can result in easily editable and maintainable css.
-  
+      - The above syntax with "$" will match all classes which end with "-end", for example blah-blah-end.  
 
 
 

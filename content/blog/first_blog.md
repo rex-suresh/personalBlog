@@ -1,8 +1,8 @@
 ---
 title: "HUGO Setup"
 date: 2022-08-22T12:04:06-05:00
-# tags: ["first", "new", "blog"]
-# series: ["blogs"]
+tags: ["first", "new", "blog", "HUGO"]
+series: ["blogs"]
 showDate: true
 draft: false
 ---
