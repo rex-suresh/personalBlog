@@ -8,14 +8,21 @@ draft: true
 ---
 
 ## Title
-<!-- less than 60 chars (precise) -->
+
 Author: self
 
+- Some of my works [Github](https://github.com/rex-suresh)
+- Contact through [Email](psureshk9@gmail.com)
+
 ### Introduction
+
 > explain about this post's title
- - something
- - to point
- - as highlights
+
+Things I have learnt.
+
+- something
+- to point
+- as highlights
 
 ### Brief explanation
 
