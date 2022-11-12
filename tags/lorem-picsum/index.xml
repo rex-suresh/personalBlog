@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lorem picsum on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/lorem-picsum/</link>
+    <description>Recent content in lorem picsum on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 11:55:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/lorem-picsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem Picsum free stock pictures</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/lorem_picsum/</link>
+      <pubDate>Sat, 15 Oct 2022 11:55:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/lorem_picsum/</guid>
+      <description>Lorem picsum Author: self
+Introduction Free image website Lorem Picsum
+Lorem Picsum is a Website which provides free stock pictures, provides free api to get free images at requested sizes. These images can be linked to html and every time a url is requested, a random image is served. You can also Query the pictures with their id&amp;rsquo;s https://picsum.photos/id/{id_number} This website, service is hosted by Adobe. </description>
+    </item>
+    
+  </channel>
+</rss>

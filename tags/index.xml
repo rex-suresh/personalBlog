@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/</link>
+    <description>Recent content in Tags on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 16:01:20 +0530</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/css/</link>
+      <pubDate>Sat, 15 Oct 2022 16:01:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media queries</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/media-queries/</link>
+      <pubDate>Sat, 15 Oct 2022 16:01:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/media-queries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem picsum</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/lorem-picsum/</link>
+      <pubDate>Sat, 15 Oct 2022 11:55:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/lorem-picsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attribute selector</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/attribute-selector/</link>
+      <pubDate>Mon, 19 Sep 2022 19:55:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/attribute-selector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regex</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/regex/</link>
+      <pubDate>Mon, 19 Sep 2022 19:55:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bg-color</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/bg-color/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/bg-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/bootstrap/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buttons</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/buttons/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/buttons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cards</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/cards/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free-images</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/free-images/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/free-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/blog/</link>
+      <pubDate>Mon, 22 Aug 2022 12:04:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/first/</link>
+      <pubDate>Mon, 22 Aug 2022 12:04:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HUGO</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/hugo/</link>
+      <pubDate>Mon, 22 Aug 2022 12:04:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/tags/new/</link>
+      <pubDate>Mon, 22 Aug 2022 12:04:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/tags/new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

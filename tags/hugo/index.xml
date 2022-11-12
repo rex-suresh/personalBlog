@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HUGO on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/hugo/</link>
+    <description>Recent content in HUGO on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 12:04:06 -0500</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGO Setup</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/first_blog/</link>
+      <pubDate>Mon, 22 Aug 2022 12:04:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/first_blog/</guid>
+      <description>First blog, Learned a new thing This is my first Blog Very less things to explain, but I came to know about Hugo&amp;rsquo;s themes I assume that Hugo uses a lookup rules internally through themes to determine how a page should be built But this is cool I like this. Starting up. Well Setup for HUGO is as follows
+brew install hugo in terminal hugo new site &#39;site_name&#39; creates a folder with the given site_name cd site_name/themes; select a theme for your site git clone {theme-repo} link from github, clones the theme repo.</description>
+    </item>
+    
+  </channel>
+</rss>

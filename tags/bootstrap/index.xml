@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bootstrap on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/bootstrap/</link>
+    <description>Recent content in bootstrap on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 23:39:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BOOTSTRAP buttons, colors, cards</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-2/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-2/</guid>
+      <description>Bootstrap buttons and cards Bootstrap provide predefined styles for buttons and cards. Cards can be small containers having header, image, text, content, footer, etc. Controlling element width, text styles.
+Key points gone through
+Styling buttons {(class=&amp;ldquo;btn&amp;rdquo;)} Outline buttons {(class=&amp;ldquo;btn-outline&amp;rdquo;)} Colors Use and available colors bg-&amp;lsquo;color&amp;rsquo; primary, secondary, dark, success, danger, light&amp;hellip; Card containers {(class=&amp;ldquo;card&amp;rdquo;)} card-header card-body card-footer card-text card-group Controlling width {(w-50, w-60) widths % in space} Text-muted Brief explanation As Bootstrap provides predefined styles for elements like buttons and some preset styles like card, we can use those styling properties to control element styles.</description>
+    </item>
+    
+    <item>
+      <title>BOOTSTRAP containers and grid system</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-1/</link>
+      <pubDate>Sun, 28 Aug 2022 21:55:34 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-1/</guid>
+      <description>Learning Bootstrap, sass/scss. (Large) Author: self
+Some of my works Github Contact through Email Introduction Boot strap is a css framework which is used by developers to make mobile first and responsive webpages quickly.
+Things I have learnt.
+Bootstrap fundamentals containers grid breakpoints column separation fluid auto predefined classes row col row-col-* align-items-* justify-content-* (mx-, my-, m-) margin (gx-, gy-, g-) gutter css regex match Brief explanation Bootstrap uses grid layout of 12 columns to determine predefined sized of elements in screen.</description>
+    </item>
+    
+  </channel>
+</rss>

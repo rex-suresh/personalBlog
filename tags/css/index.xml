@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/css/</link>
+    <description>Recent content in css on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 16:01:20 +0530</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS and media queries</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/css-media-queries/</link>
+      <pubDate>Sat, 15 Oct 2022 16:01:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/css-media-queries/</guid>
+      <description>Media Queries Author: self
+Some of my works Github Contact through Email Introduction Css media queries are blocks of code in css which executes when the given query is met. Mostly used for changing page styles at multiple screen sizes.
+Css media queries Understanding media query. Using media queries in html, css and js. Parts of a query (1) @media (2) screen (3) (min-width: 100px) (4) and&amp;hellip;
+@-Rule This part is where the media query definition starts.</description>
+    </item>
+    
+    <item>
+      <title>CSS regex/ attribute selectors</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/css-regex/</link>
+      <pubDate>Mon, 19 Sep 2022 19:55:20 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/css-regex/</guid>
+      <description>Learning Bootstrap, sass/scss. (Large) Author: self
+Some of my works Github Contact through Email Introduction Css supports regex when styling elements, it uses simple regex match syntax using *, ^, $, ~ to match complete, start, end and contains matches. Things I have learnt.
+css regex match start match (^); end match ($); contains match (~); complete/followed match (*); Brief explanation Regex in CSS Regex is also available in css. cool right!</description>
+    </item>
+    
+  </channel>
+</rss>

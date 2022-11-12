@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bg-color on Journey</title>
+    <link>http://localhost:1313/rex-suresh/personalBlog/tags/bg-color/</link>
+    <description>Recent content in bg-color on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 23:39:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/rex-suresh/personalBlog/tags/bg-color/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BOOTSTRAP buttons, colors, cards</title>
+      <link>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-2/</link>
+      <pubDate>Mon, 29 Aug 2022 23:39:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/rex-suresh/personalBlog/blog/bootstrap-2/</guid>
+      <description>Bootstrap buttons and cards Bootstrap provide predefined styles for buttons and cards. Cards can be small containers having header, image, text, content, footer, etc. Controlling element width, text styles.
+Key points gone through
+Styling buttons {(class=&amp;ldquo;btn&amp;rdquo;)} Outline buttons {(class=&amp;ldquo;btn-outline&amp;rdquo;)} Colors Use and available colors bg-&amp;lsquo;color&amp;rsquo; primary, secondary, dark, success, danger, light&amp;hellip; Card containers {(class=&amp;ldquo;card&amp;rdquo;)} card-header card-body card-footer card-text card-group Controlling width {(w-50, w-60) widths % in space} Text-muted Brief explanation As Bootstrap provides predefined styles for elements like buttons and some preset styles like card, we can use those styling properties to control element styles.</description>
+    </item>
+    
+  </channel>
+</rss>

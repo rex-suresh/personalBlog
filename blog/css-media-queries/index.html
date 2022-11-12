@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head><script src="/rex-suresh/personalBlog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=rex-suresh/personalBlog/livereload" data-no-instant defer></script>
+  <title>
+    CSS and media queries // Journey
+  </title>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="generator" content="Hugo 0.101.0" />
+
+  <meta property="og:title" content="CSS and media queries" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:locale" content="id" />
+<meta property="og:url" content="http://localhost:1313/rex-suresh/personalBlog/blog/css-media-queries/" />
+
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/rex-suresh/personalBlog//css/base-min.css">
+  <link rel="stylesheet" href="http://localhost:1313/rex-suresh/personalBlog//css/pure-min.css">
+  
+  <link rel="stylesheet" href="http://localhost:1313/rex-suresh/personalBlog//css/grids-responsive-min.css">
+  
+  <link rel="stylesheet" href="http://localhost:1313/rex-suresh/personalBlog//css/redlounge.css">
+  <link href="http://localhost:1313/rex-suresh/personalBlog//css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://localhost:1313/rex-suresh/personalBlog//css/font.css" rel='stylesheet' type='text/css'>
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png">
+  
+  
+    
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/styles/tomorrow-night-bright.min.css">
+  
+  <script src="http://localhost:1313/rex-suresh/personalBlog//js/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  
+  
+  
+  
+</head>
+<body>
+	
+	<div id="layout" class="pure-g">
+  <div class="sidebar pure-u-1 pure-u-md-1-4">
+  <div class="header">
+    
+
+	
+
+    <h1 class="brand-title">Journey</h1>
+    <h2 class="brand-tagline">Suresh&#39;s personal blog</h2>
+
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/rex-suresh/personalBlog/">Home</a></li>
+        
+      </ul>
+    </nav>
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+  </div>
+</div>
+
+	
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+		<a name="top"></a>
+		
+
+		
+			
+		    <div id="toc" class="pure-u-1 pure-u-md-1-4">
+				<small class="toc-label">Contents</small>
+		   	 	<nav id="TableOfContents">
+  <ul>
+    <li><a href="#media-queries">Media Queries</a>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#references">References</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+		    </div>
+		    
+	    
+  		<section class="post">
+            <h1 class="post-title">
+              <a href="/rex-suresh/personalBlog/blog/css-media-queries/">CSS and media queries</a>
+            </h1>
+            <h3 class="post-subtitle">
+            	
+            </h3>
+            
+            	<span class="post-date">
+                	<span class="post-date-day"><sup>15</sup></span><span class="post-date-separator">/</span><span class="post-date-month">Oct</span> <span class="post-date-year">2022</span>
+            	</span>
+            	
+            
+            	
+            
+
+			
+			
+
+			
+
+			
+
+            <h2 id="media-queries">Media Queries</h2>
+<p>Author: self</p>
+<ul>
+<li>Some of my works <a href="https://github.com/rex-suresh">Github</a></li>
+<li>Contact through <a href="psureshk9@gmail.com">Email</a></li>
+</ul>
+<h3 id="introduction">Introduction</h3>
+<blockquote>
+<p>Css media queries are blocks of code in css which executes when the given query is met. Mostly used for changing page styles at multiple screen sizes.</p>
+</blockquote>
+<ul>
+<li>Css media queries
+<ul>
+<li>Understanding media query.</li>
+<li>Using media queries in html, css and js.</li>
+</ul>
+</li>
+</ul>
+<h4 id="parts-of-a-query">Parts of a query</h4>
+<p><strong><em>(1)</em></strong> @media <strong><em>(2)</em></strong> screen <strong><em>(3)</em></strong> (min-width: 100px) <strong><em>(4)</em></strong> and&hellip;</p>
+<ol>
+<li>@-Rule
+<ul>
+<li>This part is where the media query definition starts.</li>
+</ul>
+</li>
+<li>Media type
+<ul>
+<li><code>all</code>, <code>screen</code>, <code>print</code>, <code>speech</code> determines which media is being set for condition.</li>
+</ul>
+</li>
+<li>Media feature
+<ul>
+<li>This holds the condition / feature when met, the block gets executed.</li>
+</ul>
+</li>
+<li>Combination operator
+<ul>
+<li><code>and</code>, <code>or</code> can be used here for combining multiple media features.</li>
+</ul>
+</li>
+</ol>
+<h3 id="references">References</h3>
+<ul>
+<li>Source Read more : <a href="https://css-tricks.com/a-complete-guide-to-css-media-queries/">CSS media queries</a></li>
+<li>Further references :
+<a href="https://css-tricks.com/snippets/css/media-queries-for-standard-devices/">Media queries for different devices</a></li>
+</ul>
+
+
+			
+
+			
+				<div class="tags-list">
+					<span class="dark-red">Tags</span><span class="decorative-marker">//</span>
+					
+	                <a class="post-tag post-tag-media-queries" href="http://localhost:1313/rex-suresh/personalBlog//tags/media-queries">media queries</a>,
+	                
+	                <a class="post-tag post-tag-css" href="http://localhost:1313/rex-suresh/personalBlog//tags/css">css</a>,
+	                
+				</div>
+			
+
+			
+				<div class="paging">
+					<span class="paging-label">Also Read:</span>
+					
+					<div class="paging-newer">
+						<span class="dark-red"></span><span class="decorative-marker">//</span>
+						<a class="paging-link" href="/rex-suresh/personalBlog/blog/lorem_picsum/">Lorem Picsum free stock pictures</a>
+		            </div>
+		            
+					
+	            </div>
+            
+          </section>
+          
+          	
+          
+
+      <div class="footer">
+	<hr class="thin" />
+	<div class="pure-menu pure-menu-horizontal pure-menu-open">
+		<ul class="footer-menu">
+		
+			<li><a href="/rex-suresh/personalBlog/">Home</a></li>
+		
+		</ul>
+	</div>
+
+	<p>&copy; 2022. All rights reserved. Powered by <a href="https://gohugo.io/" target="_blank">Hugo Framework</a></p>
+</div>
+    </div>
+  </div>
+	
+
+	
+
+  
+</body>
+</html>
